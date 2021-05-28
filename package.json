@@ -1,0 +1,16 @@
+{
+  "name": "learn-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dotoryeee/learn-JS.git"
+  },
+  "author": "dotoryeee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dotoryeee/learn-JS/issues"
+  },
+  "homepage": "https://github.com/dotoryeee/learn-JS#readme"
+}
